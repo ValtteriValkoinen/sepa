@@ -12,6 +12,7 @@ Currently we have support for SEPA Web Services for
 * Nordea
 * Danske Bank
 * OP
+* Samlink (Aktia, Säästöpankit, POP Pankki, Handelsbanken)
 
 ## Installation
 
